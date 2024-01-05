@@ -33,4 +33,5 @@ This file has the data from the measurement of the crossbow limb.
 
 Notice how the force-distance curve doesn't quite follow hooke's law. 
 Crossbows are slightly different from ideal springs!
+
 ![](/images/force_distance.PNG)
